@@ -15,7 +15,7 @@ A simple and lightweight Bluetooth applet for Cinnamon, inspired by the behavior
 
 ## 📸 Screenshot
 
-<img width="1920" height="1080" alt="Print1" src="https://github.com/user-attachments/assets/d985dd06-5056-432d-b5bf-49d55c4d4e16" />
+<img width="1920" height="1080" alt="Print1" src="https://github.com/bullexe/bluetooth-applet-cinnamon/blob/main/Print1.png" />
 
 
 ## ⚙️ Requirements
