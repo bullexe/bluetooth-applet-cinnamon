@@ -30,7 +30,7 @@ A simple and lightweight Bluetooth applet for Cinnamon, inspired by the behavior
 1. Clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/bluetooth-applet-cinnamon.git
+git clone https://github.com/bullexe/bluetooth-applet-cinnamon.git
 ```
 
 2. Copy it to the Cinnamon applets directory:
