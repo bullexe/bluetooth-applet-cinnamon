@@ -1,0 +1,6 @@
+{
+    "uuid": "bt-minimal@meuusuario",
+    "name": "Meu Bluetooth Integrado",
+    "description": "Applet de Bluetooth estilo GNOME/Windows",
+    "icon": "bluetooth-active-symbolic"
+}
