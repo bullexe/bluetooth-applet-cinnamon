@@ -27,7 +27,7 @@ MyApplet.prototype = {
         }
     },
 
-    // ✅ FUNÇÃO FINAL DE CONEXÃO (com sessão real)
+   
     _connectDevice(dev) {
         if (!dev || !dev.mac)
             return;
