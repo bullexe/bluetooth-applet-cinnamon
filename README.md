@@ -27,33 +27,11 @@ A simple and lightweight Bluetooth applet for Cinnamon, inspired by the behavior
 
 ## 📦 Installation
 
-1. Clone the repository:
+* Download folder here: https://drive.google.com/drive/folders/1iSLLcABAjMawVY8JghAVRGQjobCrfJMq?usp=drive_link
+* Paste the folder in this path: /home/user/.local/share/cinnamon/applets
+* Press alt + f2, type R and Enter to restart cinnamon
+* Oppen applets app and active 
 
-```
-git clone https://github.com/bullexe/bluetooth-applet-cinnamon.git
-```
-
-2. Copy it to the Cinnamon applets directory:
-
-```
-cp -r bluetooth-applet-cinnamon ~/.local/share/cinnamon/applets/bluetooth-applet@joaopaulo
-```
-
-3. Restart Cinnamon:
-
-```
-cinnamon --replace
-```
-
-or press:
-
-```
-CTRL + ALT + ESC
-```
-
-4. Add the applet to your panel
-
----
 
 ## ⚠️ Notes
 
