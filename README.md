@@ -27,12 +27,9 @@ A simple and lightweight Bluetooth applet for Cinnamon, inspired by the behavior
 
 ## 📦 Installation
 
-* Download folder here: https://drive.google.com/drive/folders/1iSLLcABAjMawVY8JghAVRGQjobCrfJMq?usp=drive_link
-* Paste the folder in this path: /home/user/.local/share/cinnamon/applets
-* Press alt + f2, type R and Enter to restart cinnamon
-* Oppen applets app and active 
-
-
+* Copy the folder to `~/.local/share/cinnamon/applets/bt-minimal@joaopaulo`
+* Press `Alt + F2`, type `r` and press Enter to restart Cinnamon
+* Open the Applets configuration and enable the applet
 ## ⚠️ Notes
 
 * Some devices require manual confirmation for pairing

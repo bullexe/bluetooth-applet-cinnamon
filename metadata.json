@@ -1,6 +1,10 @@
 {
-    "uuid": "bt-minimal@meuusuario",
+    "uuid": "bt-minimal@joaopaulo",
     "name": "Meu Bluetooth Integrado",
-    "description": "Applet de Bluetooth estilo GNOME/Windows",
-    "icon": "bluetooth-active-symbolic"
+    "description": "Applet integrado de Bluetooth para Cinnamon",
+    "icon": "bluetooth-active-symbolic",
+    "author": "João Paulo",
+    "version": "1.1",
+    "cinnamon-version": "5.0+",
+    "max-instances": 1
 }
